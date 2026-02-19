@@ -17,7 +17,6 @@ import sys
 from mcp import ClientSession
 from mcp.client.streamable_http import streamablehttp_client
 
-
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
