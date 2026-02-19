@@ -488,8 +488,8 @@ Before submitting, verify:
 - [x] **Testing evidence included:**
   - [x] Option A: `test_results.log` file with passing tests, OR
   - [ ] Option B: `screenshots/` folder with MCP Inspector screenshots
-- [ ] All changes committed and pushed to GitHub
-- [ ] **(Bonus)** Screenshots of AI assistant using your server
+- [x] All changes committed and pushed to GitHub
+- [x] **(Bonus)** Screenshots of AI assistant using your server
 
 ---
 
